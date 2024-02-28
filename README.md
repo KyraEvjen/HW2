@@ -1,9 +1,11 @@
 # HW2
 ## Assignment 2: API, JSON, HTML, JavaScript
 
-There are 2 files and 3 folders in the HW2 folder. pycache, frontend, venv, main.py, requirements.txt
+There are 2 files and 1 folder in the HW2 folder. frontend folder, main.py, requirements.txt
 
 In the frontend folder there is index.html and main.js
+
+(venv and pychache should be added to run the application)
 
 ## main.py
 Imports enum & fastapi resources
