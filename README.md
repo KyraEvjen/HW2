@@ -8,6 +8,7 @@ In the frontend folder there is index.html and main.js
 Imports enum & fastapi resources
 Gets required files to run application
   app.get & app.mount
+
 ![image](https://github.com/KyraEvjen/HW2/assets/156963640/2afaef64-d582-4531-aec5-557ea1db3434)
 
 
@@ -24,6 +25,7 @@ First fetches the data from the API
 Then sorts the data by year
 Then populates the table with the data (year and population)
 catch at the end for incase there is an error fetching the data
+
 ![image](https://github.com/KyraEvjen/HW2/assets/156963640/b300fcc9-05bd-42a5-a4b9-1db626bf5b31)
 
 ## Application Appearance
