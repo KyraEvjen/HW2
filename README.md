@@ -7,6 +7,8 @@ In the frontend folder there is index.html and main.js
 
 (venv and pycache are needed to be added to run the application)
 
+![image](https://github.com/KyraEvjen/HW2/assets/156963640/b568ffd6-5cb0-4297-b0f1-3eb0d82f6da9)
+
 ## main.py
 Imports enum & fastapi resources
 Gets required files to run application
