@@ -5,7 +5,7 @@ There are 2 files and 1 folder in the HW2 folder. frontend folder, main.py, requ
 
 In the frontend folder there is index.html and main.js
 
-(venv and pycache is needed to be added to run the application)
+(venv and pycache are needed to be added to run the application)
 
 ## main.py
 Imports enum & fastapi resources
